@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=165&color=959CBD"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=135&color=959CBD"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=73daca&size=35&pause=1100&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Lucas+das+Neves;I'm+from+Curitiba,+Brasil;Be+Welcome!+=D)](https://git.io/typing-svg)
 <div align="center">    
@@ -15,4 +15,5 @@
 <img align="center" height="70" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 <img align="center" height="65" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
 <img align="center" height="60" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-          
+<br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=115&color=959CBD&section=footer"/>
