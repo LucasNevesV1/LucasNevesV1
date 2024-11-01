@@ -10,7 +10,7 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=73daca&size=35&pause=1100&ce
     <img width="40%" height="195px"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasNevesV1&layout=donut&theme=tokyonight" />
     <a href="https://github.com/LucasNevesV1/Alura-Jogo-do-Numero-Secreto">
-      <img width="40%" height="290px" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasNevesV1&repo=Alura-Jogo-do-Numero-Secreto&theme=tokyonight&show_owner=true" />
+      <img width="40%" height="288px" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasNevesV1&repo=Alura-Jogo-do-Numero-Secreto&theme=tokyonight&show_owner=true" />
     </a>
 </div>
 
