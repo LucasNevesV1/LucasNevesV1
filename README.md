@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=73daca&size=35&pause=1100&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Lucas+das+Neves;I'm+from+Curitiba,+Brasil;Be+Welcome!+=D)](https://git.io/typing-svg)
 <div align="center">
     <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasNevesV1&layout=donut&theme=tokyonight" />
-    <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasNevesV1&repo=Alura-Jogo-do-Numero-Secreto&theme=tokyonight&show_owner=true"/>
+    <img width="40%" height="270px" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasNevesV1&repo=Alura-Jogo-do-Numero-Secreto&theme=tokyonight&show_owner=true"/>
 </div>
 <br>
 <div align="center">  
