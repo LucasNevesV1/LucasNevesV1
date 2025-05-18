@@ -1,10 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=135&color=959CBD"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=135&color=5FABEE"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=73daca&size=35&pause=1100&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Lucas+das+Neves;I'm+from+Curitiba,+Brasil;Be+Welcome!+=D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5FABEE&size=35&pause=1100&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Lucas+das+Neves;I'm+from+Curitiba,+Brasil;Be+Welcome!+=D)](https://git.io/typing-svg)
 <hr>
 <div align="center">    
-    <img width="53%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LucasNevesV1&show_icons=true&theme=tokyonight&hide=issues&rank_icon=github" /> 
-    <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasNevesV1&layout=compact&theme=tokyonight" />
+    <img width="53%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LucasNevesV1&show_icons=true&theme=holi&hide=issues&rank_icon=github" /> 
+    <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasNevesV1&layout=compact&theme=holi" />
 </div>
 
 <br>
@@ -29,4 +29,4 @@
 <img align="center" height="60" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
           
 <br>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=115&color=959CBD&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=115&color=5FABEE&section=footer"/>
